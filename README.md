@@ -4,4 +4,4 @@
 
 - ⚙️ I work daily with `.cpp` and `.py` for robotic systems
 - 🌱 I'm curious about Full-Stack development, currently learning about `.js`, `.ts`, `.svelte`, `.html`, `.css`
-- 💬 `ping` me at **<a href="mailto:jonas.herzfeld­@moia.io">­Email</a>** or **<a href="https://www.linkedin.com/in/jonas-herzfeld/">­LinkedIn</a>**
+- 💬 `ping` me at **<a href="mailto:jonas.herzfeld­@gmail.com">­Email</a>** or **<a href="https://www.linkedin.com/in/jonas-herzfeld/">­LinkedIn</a>**
